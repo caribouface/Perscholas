@@ -46,4 +46,4 @@ This website's design was heavily inspired by the classic EverQuest fansite, All
 
 ## GitHub Link
 
-https://github.com/caribouface/2024-RTT-65 
+https://github.com/caribouface
