@@ -13,7 +13,6 @@ form.addEventListener('submit', function(event) {
   }
 
   // If email is valid, you can proceed with form submission
-  // (e.g., send data to server using AJAX or Fetch API)
   alert('Thank you for your message!');
   form.reset();
 });
@@ -40,6 +39,5 @@ window.onclick = function(event) {
   }
 }
 
-// JavaScript Array (Example)
 const supportedLanguages = ["English", "Spanish", "French", "German", "Japanese"];
-console.log(supportedLanguages); // You can use this array to dynamically populate content
+console.log(supportedLanguages); 
